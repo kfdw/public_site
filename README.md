@@ -1,2 +1,3 @@
-# public_site
-Knit Fast Die Warm Site
+Welcome to Knit Fast Die Warm!
+
+Content coming soon.
