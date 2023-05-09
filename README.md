@@ -1,2 +1,3 @@
-# public_site
-Knit Fast Die Warm Site
+<h1>Welcome to Knit Fast Die Warm!</h1>
+
+Content coming soon.
